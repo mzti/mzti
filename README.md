@@ -1,11 +1,3 @@
-```mermaid
-graph LR;
-    MUJUN-->M;
-    MUJUN-->J-->Z;
-    MOMENTI-->M;
-    MOMENTI-->N-->|"🔄"|Z;
-    MOMENTI-->TI;
-    M-->MZTI;
-    Z-->MZTI;
-    TI-->MZTI;
-```
+This account is unused.
+
+2022.07 ~ 2024.01
